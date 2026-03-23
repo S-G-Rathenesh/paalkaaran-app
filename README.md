@@ -12,6 +12,12 @@
   <img alt="license" src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="./app-release.apk?raw=1">
+    <img alt="Download APK" src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 📌 About
@@ -40,7 +46,7 @@ It helps you manage:
 
 ## 📲 Installation
 
-1. Get the APK file.
+1. Download the APK file.
 2. Enable **Install from Unknown Sources** (if prompted).
 3. Install the app.
 4. Open and start managing your milk business.

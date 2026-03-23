@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3075/3075977.png" width="120" alt="Paalkaaran Logo" />
+  <img src="./logo.png" width="140" alt="Paalkaaran Logo" />
 </p>
 
 <h1 align="center">🥛 Paalkaaran</h1>
@@ -10,6 +10,12 @@
   <img alt="version" src="https://img.shields.io/badge/version-1.0.0-blue?style=flat-square" />
   <img alt="platform" src="https://img.shields.io/badge/platform-Android-green?style=flat-square&logo=android&logoColor=white" />
   <img alt="license" src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="./app-release.apk?raw=1">
+    <img alt="Download APK" src="https://img.shields.io/badge/Download%20APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" />
+  </a>
 </p>
 
 ---
